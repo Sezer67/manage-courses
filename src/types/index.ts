@@ -1,0 +1,1 @@
+export * as loginTypes from './login.type';
